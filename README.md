@@ -25,8 +25,8 @@ Once downloaded, place it inside the `data/` folder in your project directory.
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone git@github.com:nwanduben/Sentiment-Analysis.git
-cd Sentiment-Analysis
+git clone git@github.com:nwanduben/Ecommerce-Sentiment-Analysis.git
+cd Ecommerce-Sentiment-Analysis
 
 install -r requirements.txt
 streamlit run app.py
