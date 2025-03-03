@@ -21,6 +21,10 @@ Once downloaded, place it inside the `data/` folder in your project directory.
 
 ---
 
+
+## APP
+Here is a deployed model of the ecommerce sentiment analysis App: 
+[App Link](https://sentiment-analysis-app-8xrxncrn9vdfln62sfvfkw.streamlit.app/)- App
 ## 🛠️ How to Run the Project
 
 ### **1️⃣ Clone the Repository**
